@@ -1,5 +1,5 @@
 # jsppractice
-Demo: http://160.16.242.156:8080/bbs/
+Demo: http://160.16.242.156:8080/bbs/  (for pc)
 
 Links:  
 http://docs.oracle.com/javase/8/docs/api/  
